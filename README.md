@@ -1,23 +1,23 @@
 <div align="center">
   
   <!-- 动态打字效果标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+ShenJun;Full-Stack+Developer;Java+%7C+Spring+%7C+Vue" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+ShenJun;Full-Stack+Developer;Java+%7C+Spring+%7C+Vue" alt="Typing Intro" />
   <br />
   <sub>湖南 · China · 简洁、可靠、可维护。</sub>
   <br /><br />
   <!-- 指标与社交链接 -->
   <p>
     <a href="https://komarev.com/ghpvc/?username=ajaxpppp">
-      <img src="https://komarev.com/ghpvc/?username=ajaxpppp&label=Views&color=6DB33F&style=flat-square" alt="Profile views" />
+      <img src="https://komarev.com/ghpvc/?username=ajaxpppp&label=Views&color=2F81F7&style=flat-square" alt="Profile views" />
     </a>
     <a href="https://github.com/ajaxpppp?tab=followers">
-      <img src="https://img.shields.io/github/followers/ajaxpppp?style=flat-square&color=6DB33F" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/ajaxpppp?style=flat-square&color=2F81F7" alt="Followers" />
     </a>
     <a href="https://github.com/ajaxpppp">
-      <img src="https://img.shields.io/badge/GitHub-@ajaxpppp-6DB33F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-@ajaxpppp-2F81F7?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:18528260613@163.com">
-      <img src="https://img.shields.io/badge/Email-18528260613%40163.com-6DB33F?style=flat-square" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-18528260613%40163.com-2F81F7?style=flat-square" alt="Email" />
     </a>
   </p>
 </div>
@@ -45,34 +45,34 @@
 ## 📊 数据概览 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaxpppp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaxpppp&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=6DB33F" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaxpppp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaxpppp&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=2F81F7" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ajaxpppp&theme=transparent&hide_border=true&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ajaxpppp&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub Streak" />
 </div>
 
 <!-- 活动图表 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaxpppp&hide_border=true&area=true&bg_color=00000000&color=6DB33F&line=6DB33F&point=6DB33F&area_color=6DB33F" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaxpppp&hide_border=true&area=true&bg_color=00000000&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7" alt="Contribution Graph" />
 </div>
 
 <!-- 精选项目 -->
 ## 🌟 精选项目 | Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ajaxpppp/SmartCity2023first">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SmartCity2023first&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F" />
+  <a href="https://github.com/ajaxpppp/SsmJspTomcat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SsmJspTomcat&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7" />
   </a>
-  <a href="https://github.com/ajaxpppp/Ccrm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=Ccrm&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F" />
+  <a href="https://github.com/ajaxpppp/SpringCloud2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SpringCloud2023&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7" />
   </a>
-  <a href="https://github.com/ajaxpppp/MyBlogSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=MyBlogSystem&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F" />
+  <a href="https://github.com/ajaxpppp/node_uniapp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=node_uniapp&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7" />
   </a>
-  <a href="https://github.com/ajaxpppp/SpringCloudStudy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SpringCloudStudy&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F" />
+  <a href="https://github.com/ajaxpppp/uniapp_electric_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=uniapp_electric_system&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7" />
   </a>
 </div>
 
