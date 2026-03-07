@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Java | Spring | Vue**
 
-<sub>山东 · China · 简约 · 可维护</sub>
+<sub>湖南 · China · 简约 · 可维护</sub>
 
 </div>
 
