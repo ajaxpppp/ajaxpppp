@@ -1,29 +1,14 @@
-<div align='center'>
-  
-  <!-- Typing intro -->
-  <img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I%27m+ShenJun;Full-Stack+Developer;Java+%7C+Spring+%7C+Vue' alt='Typing intro' />
-  <br />
-  <sub>山东 · China · 简约 · 可维护</sub>
-  <br /><br />
+<div align="center">
 
-  <!-- Profile badges -->
-  <p>
-    <a href='https://komarev.com/ghpvc/?username=ajaxpppp'>
-      <img src='https://komarev.com/ghpvc/?username=ajaxpppp&label=Views&color=2F81F7&style=flat-square' alt='Profile views' />
-    </a>
-    <a href='https://github.com/ajaxpppp?tab=followers'>
-      <img src='https://img.shields.io/github/followers/ajaxpppp?style=flat-square&color=2F81F7' alt='Followers' />
-    </a>
-    <a href='https://github.com/ajaxpppp'>
-      <img src='https://img.shields.io/badge/GitHub-@ajaxpppp-2F81F7?style=flat-square&logo=github&logoColor=white' alt='GitHub' />
-    </a>
-    <a href='mailto:18528260613@163.com'>
-      <img src='https://img.shields.io/badge/Email-18528260613%40163.com-2F81F7?style=flat-square' alt='Email' />
-    </a>
-  </p>
+# Hi 👋 I'm ShenJun
+
+**Full-Stack Developer · Java | Spring | Vue**
+
+<sub>山东 · China · 简约 · 可维护</sub>
+
 </div>
 
-<img alt='divider' src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' />
+<img alt="divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🌟 关于我 | About Me
 
@@ -41,60 +26,32 @@
 - 日常主力 / Daily drivers: `Java`, `Spring Boot`, `Spring Cloud`, `Vue`, `JavaScript`  
 - 也会用 / Also use: `MySQL`, `Redis`, `MongoDB`, `Docker`, `Git`, `Maven`, `IntelliJ IDEA`, `VS Code`, `Postman`
 
-<div align='center'>
-  <img alt='Tech stack icons' src='https://skillicons.dev/icons?i=java,spring,vue,js,html,css,git,maven,docker,redis,mysql,mongodb,idea,vscode,postman&perline=9' />
-</div>
+> 为了在国内网络环境下加载更稳定，这里使用文字列出技术栈，不再依赖第三方图标服务。
 
-## 📊 数据概览 | GitHub Stats
+## 📊 GitHub 活动 | GitHub Activity
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=ajaxpppp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7' alt='GitHub stats' height='180' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ajaxpppp&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=2F81F7' alt='Top languages' height='180' />
-</div>
+- 主要活跃在后端 Java / Spring 生态与前端 Vue 开发。  
+  Mainly active in Java/Spring back-end and Vue front-end development.
+- GitHub 自带的贡献图和下方的 Contribution Snake 可以直观展示活跃度。  
+  Use GitHub's contribution graph and the Contribution Snake below to see activity.
 
-<div align='center'>
-  <img src='https://streak-stats.demolab.com?user=ajaxpppp&theme=transparent&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7' alt='GitHub streak' />
-</div>
-
-<div align='center'>
-  <img src='https://github-readme-activity-graph.vercel.app/graph?username=ajaxpppp&hide_border=true&area=true&bg_color=00000000&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7' alt='Contribution graph' />
-</div>
+> 原本这里使用第三方统计卡片（`github-readme-stats` 等），但在 GitHub + 国内网络下经常加载失败，
+> 因此移除这些图片，避免出现大量空白和坏图标。
 
 ## 🚀 精选项目 | Featured Projects
 
 部分代表性项目 / Some highlighted projects:
 
-<div align='center'>
-  <a href='https://github.com/ajaxpppp/SsmJspTomcat'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SsmJspTomcat&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7' alt='SsmJspTomcat' />
-  </a>
-  <a href='https://github.com/ajaxpppp/SpringCloud2023'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=SpringCloud2023&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7' alt='SpringCloud2023' />
-  </a>
-  <a href='https://github.com/ajaxpppp/node_uniapp'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=node_uniapp&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7' alt='node_uniapp' />
-  </a>
-  <a href='https://github.com/ajaxpppp/uniapp_electric_system'>
-    <img src='https://github-readme-stats.vercel.app/api/pin/?username=ajaxpppp&repo=uniapp_electric_system&hide_border=true&bg_color=00000000&title_color=2F81F7&icon_color=2F81F7' alt='uniapp_electric_system' />
-  </a>
-</div>
-
-<details>
-<summary>🏆 GitHub 成就 | Trophies</summary>
-
-<div align='center'>
-  <img src='https://github-profile-trophy.vercel.app/?username=ajaxpppp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7' alt='GitHub trophies' />
-</div>
-
-</details>
+- [SsmJspTomcat](https://github.com/ajaxpppp/SsmJspTomcat)
+- [SpringCloud2023](https://github.com/ajaxpppp/SpringCloud2023)
+- [node_uniapp](https://github.com/ajaxpppp/node_uniapp)
+- [uniapp_electric_system](https://github.com/ajaxpppp/uniapp_electric_system)
 
 <details>
 <summary>📈 技能熟练度 | Skills Progress</summary>
 
 简略展示主要技术的自我评估（仅供参考）：  
 A quick self-assessment of skill levels (for fun):
-
-<div align='center'>
 
 ```text
 Java            ████████████████████░  95%
@@ -106,14 +63,11 @@ MySQL           ██████████████████░░  90
 Git             ████████████████░░░░  85%
 ```
 
-</div>
-
 </details>
 
 <details>
 <summary>🔥 最近动态 | Recent Activity</summary>
 
-<!--START_SECTION:activity-->
 1. 🏙️ 创建 [SmartCity2023first](https://github.com/ajaxpppp/SmartCity2023first) - 智慧城市相关比赛项目（2021）  
    Created SmartCity2023first - project for a Smart City competition (2021).
 2. 🧩 开发 [Ccrm](https://github.com/ajaxpppp/Ccrm) - 基于 SSM 的人力资源管理系统  
@@ -124,7 +78,6 @@ Git             ████████████████░░░░  85
    Learning SpringCloudStudy - exploring Spring Cloud step by step.
 5. ⚡ 维护 [uniapp_electric_system](https://github.com/ajaxpppp/uniapp_electric_system) - 电力系统基础 demo  
    Working on uniapp_electric_system - electric system demo project.
-<!--END_SECTION:activity-->
 
 </details>
 
@@ -134,7 +87,6 @@ Git             ████████████████░░░░  85
 最近的语言使用时间分布（示例统计）：  
 Recent language usage snapshot (example stats):
 
-<!--START_SECTION:waka-->
 ```text
 Java         12 hrs 30 mins  ███████████████░░░  60.5%
 Vue.js       4 hrs 15 mins   █████░░░░░░░░░░░░░  20.6%
@@ -142,32 +94,30 @@ JavaScript   2 hrs 45 mins   ████░░░░░░░░░░░░░
 XML          45 mins         █░░░░░░░░░░░░░░░░░░   3.7%
 Other        25 mins         █░░░░░░░░░░░░░░░░░░   1.9%
 ```
-<!--END_SECTION:waka-->
 
 </details>
 
 ## 🐍 Contribution Snake
 
-<div align='center'>
+<div align="center">
   <picture>
-    <source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake-dark.svg'>
-    <source media='(prefers-color-scheme: light)' srcset='https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake.svg'>
-    <img alt='GitHub contribution grid snake animation' src='https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake.svg'>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ajaxpppp/ajaxpppp/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ## 💬 Dev Quote
 
-<div align='center'>
-  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight' alt='Random dev quote' />
-</div>
+> Talk is cheap. Show me the code.  
+> — Linus Torvalds
 
-<div align='center'>
-  <img alt='divider' src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' />
+<div align="center">
+  <img alt="divider" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   
   <h3>🤝 Let&apos;s Connect!</h3>
   <p>欢迎通过 GitHub 或邮箱与我联系，一起合作项目或交流技术。</p>
   <p>Feel free to reach out via GitHub or email to collaborate or chat about technology.</p>
   
-  <sub>From <a href='https://github.com/ajaxpppp'>ajaxpppp</a> with ❤️</sub>
+  <sub>From <a href="https://github.com/ajaxpppp">ajaxpppp</a> with ❤️</sub>
 </div>
