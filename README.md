@@ -1,4 +1,4 @@
-﻿<div align='center'>
+<div align='center'>
   
   <!-- Typing intro -->
   <img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I%27m+ShenJun;Full-Stack+Developer;Java+%7C+Spring+%7C+Vue' alt='Typing intro' />
